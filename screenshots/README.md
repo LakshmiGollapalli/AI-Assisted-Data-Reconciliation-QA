@@ -2,6 +2,11 @@
 
 ![Reconciliation Rules](reconciliation_rules.png)
 
+## Architecture
+
+![Architecture Diagram](Reconciliation architecture.png)
+
+
 ## Sample Test Cases
 
 ![Test Cases](test_cases.png)
