@@ -1,16 +1,16 @@
 ## Sample Test Cases
 
-![Test Cases](screenshots/test_cases.png)
+![Test Cases](test_cases.png)
 
 ## Reconciliation Results
 
-![Results](screenshots/reconciliation_result.png)
+![Results](reconciliation_result.png)
 
 ## Defect Log
 
-![Defects](screenshots/defect_log.png)
+![Defects](defect_log.png)
 
 ## RTM
 
-![RTM](screenshots/rtm.png)
+![RTM](rtm.png)
 
