@@ -4,7 +4,7 @@
 
 ## Architecture
 
-![Architecture Diagram](Reconciliation architecture.png)
+![Architecture Diagram](Reconciliation_architecture.png)
 
 
 ## Sample Test Cases
