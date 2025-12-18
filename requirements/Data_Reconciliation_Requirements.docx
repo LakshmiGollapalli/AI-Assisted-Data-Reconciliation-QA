@@ -10,6 +10,8 @@ Source A: Bank Transactions
 
 Source B: Ledger System
 
+Source A represents an OLTP transaction processing system, while Source B represents a ledger system optimized for reconciliation and reporting.
+
 3️⃣ Business Rules
 
 Debit ↔ Credit mapping
