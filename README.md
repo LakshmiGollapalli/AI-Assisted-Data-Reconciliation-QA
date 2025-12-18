@@ -15,3 +15,7 @@ It includes requirement analysis, data validation, reconciliation testing, defec
 
 ## Note
 This is a self-initiated practice project based on sample requirements, created for learning and demonstration purposes.
+
+## Architecture Diagram
+
+![Data Reconciliation Architecture](screenshots/Reconciliation architecture.png)
