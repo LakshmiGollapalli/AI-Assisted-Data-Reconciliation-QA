@@ -1,3 +1,7 @@
+## Reconciliation Rules
+
+![Reconciliation Rules](reconciliation_rules.png)
+
 ## Sample Test Cases
 
 ![Test Cases](test_cases.png)
