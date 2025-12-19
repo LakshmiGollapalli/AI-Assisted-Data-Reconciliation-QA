@@ -87,6 +87,7 @@ requirements/
 testdata/
 diagrams/
 screenshots/
+python_analysis/
 
 
 ---
