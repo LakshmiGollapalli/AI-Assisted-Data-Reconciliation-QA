@@ -1,5 +1,13 @@
 # Data Reconciliation QA Project
 
+## Repository Details
+
+- Project Type: Portfolio / Learning Project
+- Domain: Financial Data Reconciliation
+- Role Simulated: Data QA / Reconciliation Tester
+- Tools Used: Excel, Python (Pandas), GitHub, GenAI
+- Automation Level: Analytical validation (not production automation)
+
 ## Overview
 This project demonstrates end-to-end data reconciliation testing using sample enterprise transaction data.
 It simulates real-world scenarios where transactions from a source system are validated against a ledger system
